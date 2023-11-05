@@ -13,7 +13,11 @@
 
 `Rust`:284 ms  
 
-`GO`:35 ms  
+`GO`:35 ms 
+
+`VB6`:2926 ms 
+
+`FreeBasic`:164 ms
 
 [//]: # (``: ms)
 
