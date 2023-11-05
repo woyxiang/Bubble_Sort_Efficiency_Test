@@ -1,7 +1,7 @@
 # Bubble_Sort_Efficiency_Test
 `Python`:6018 ms  
 
-`JavaScript`:97 ms  
+`Node.js`:97 ms  
 
 `C`:128 ms  
 
